@@ -1,7 +1,8 @@
 title: David Sartin # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+logo: "/images/logo.png?raw=true" Not me, really # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Full Stack Web Developer | Python | MERN | 
+  Full Stack Web Developer<br>
+  | Python | MERN | 
   <br><br>
   Second description 
   <br><br>
